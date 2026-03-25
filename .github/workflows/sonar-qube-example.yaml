@@ -27,4 +27,4 @@ jobs:
           args: >
             -Dsonar.projectKey=nabaansari9_SonarQube-Example
             -Dsonar.organization=nabaansari9
-            -Dsonar.sources=.
+            -Dsonar.sources=src/
